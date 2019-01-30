@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/arihant/PycharmProjects/IntelligentSystems/Project2/cnn_model_save/CCN"
+all_model_checkpoint_paths: "/home/arihant/PycharmProjects/IntelligentSystems/Project2/cnn_model_save/CCN"
