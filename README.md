@@ -1,2 +1,2 @@
 # Real-Time-Emotion-Detection
-Usage:
+Usage - python webcam_input.py
